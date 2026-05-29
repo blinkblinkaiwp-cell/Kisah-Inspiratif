@@ -1,0 +1,6 @@
+{
+  "name": "Etnografi Jawa Timur",
+  "description": "Jaringan penelitian etnografi Jawa Timur dengan pemetaan partisipatif dan basis data digital terintegrasi serta asisten analisis berbasis AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
